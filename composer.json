@@ -1,0 +1,16 @@
+{
+  "name": "hackermanmajo/microrem",
+  "type": "library",
+  "description": "Simple microframework to make php apps easy",
+  "keywords": ["microframework","ajax"],
+  "homepage": "https://marvin-knapp.de",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "HackermanMajo",
+      "email": "hackermanmajo@gmail.com",
+      "homepage": "https://marvin-knapp.de",
+      "role": "Maintainer"
+    }
+  ]
+}
